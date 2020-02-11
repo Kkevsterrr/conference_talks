@@ -1,4 +1,4 @@
-
+This repository holds our presentation materials for the [Geneva Project](https://geneva.cs.umd.edu). If you're looking for our publicized source code, it's located at our [github page](https://github.com/kkevsterrr/geneva).
 
 # Bluehat 2020 - Abstract
 
@@ -11,7 +11,6 @@ We deployed Geneva around the world live against real-world censors in China, In
 *Kevin Bock* ([Kkevsterrr](https://github.com/kkevsterrr)) is a PhD student and instructor at the University of Maryland, where he is advised by Dave Levin. His research interests are in network security, machine learning, and security education.
 
 *George Hughey* ([ecthros](https://github.com/ecthros)) recently graduated from the University of Maryland with a bachelor’s degree in Computer Science, where he worked on the Geneva project. George now works for MSRC at Microsoft on the Vulnerabilities and Mitigations team, and he is most interested in security and networks.
-
 
 
 
